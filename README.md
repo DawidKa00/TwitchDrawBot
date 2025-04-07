@@ -6,7 +6,7 @@ in draw.
 If you want to increase win chance for your subscribers type in value in "Sub luck" field.
 
 ## Instructions
-1. Go to [OAuth Password Generator](https://twitchapps.com/tmi/) get your key (including "oauth:") 
+1. Go to [OAuth Password Generator](https://twitchtokengenerator.com/) get your key (including "oauth:") 
 and put it in the **.env** file
 2. Enter the username to the name of the botted twitch.tv account in the **.env** file
 3. Start the app
